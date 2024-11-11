@@ -1,5 +1,8 @@
 # Project Assignment
-This is a **group assignment**
+This is a **group assignment**.
+
+**Due: Sunday, Month Date Year @ 11:59PM**
+
 ## Deliverable 1
 All teams should submit all the source codes (.ipynb files).
 ## Deliverable 2
